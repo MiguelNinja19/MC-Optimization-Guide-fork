@@ -1,3 +1,14 @@
+> [!IMPORTANT]
+>**MC-Optimization-Guide Mirror**
+> 
+> This repository was created on 13/01/26 after the original creator’s account was deleted.  
+> All credit goes to **Radk6**.  
+> This fork (try) keeps the guide active after the original repo was deleted.
+> This repository uses the latest version of the original repository (fortunately, I synced my fork the day before its deletion).
+> If the original creator resumes activity, this repository will be discontinued in their favor.
+> I will try to maintain it if the original creator does not return.
+
+
 # MC-Optimization-Guide
 
 The end-all, be-all optimization guide for various Minecraft versions.
