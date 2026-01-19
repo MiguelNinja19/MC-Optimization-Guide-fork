@@ -45,6 +45,9 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 ## [Modpack-specific optimizations](modpack-specific/modpack-instructions.md)
 
 ## FAQ
+Q: What happened to Rad? Why was the original repository deleted?
+
+A: He deleted his [GitHub](https://github.com/Radk6/), Reddit, and possibly Discord accounts. The reason is unknown.
 
 Q: Why isn't `mod x` on any of the lists?
 
