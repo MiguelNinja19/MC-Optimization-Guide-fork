@@ -25,6 +25,7 @@ This doesn't mean you should just install all of them. Only use the ones you nee
 | Not Enough Recipe Book | Removes the recipe book which can help performance in some cases. Reduces redundancy with item viewers such as EMI | Fabric, NeoForge | Both |
 | Structure Layout Optimizer | Improves structure generation speed, helpful in packs with lots of structures | Fabric, NeoForge | Server |
 | Vanillin | Speeds up rendering of block entities, even better than Enhanced Block Entities. Shaders require the Colorwheel mod | Fabric, NeoForge | Client |
+| Very Many Players | Improve general server performance at high playercount, helpful in servers | Fabric | Both |
 
 </details>
 
@@ -56,6 +57,7 @@ This doesn't mean you should just install all of them. Only use the ones you nee
 | Structure Layout Optimizer | Improves structure generation speed, helpful in packs with lots of structures | Fabric, Forge | Server |
 | ThreadTweak | Allows for changing thread priority, which can be beneficial on extremely low-end/old PCs | Fabric | Both |
 | Vanillin | Speeds up rendering of block entities, even better than Enhanced Block Entities. Shaders require the Colorwheel mod | Fabric, Forge | Client |
+| Very Many Players | Improve general server performance at high playercount, helpful in servers | Fabric, Forge | Both |
 
 </details>
 
@@ -76,6 +78,7 @@ This doesn't mean you should just install all of them. Only use the ones you nee
 | SerializationIsBad | Fixes the BleedingPipe/ObjectInputStream vulnerability | Forge | Both |
 | Smooth Boot/Smooth Boot Reloaded | Modifies CPU scheduling to improve loading times | Fabric, Forge | Both |
 | Structure Layout Optimizer | Improves structure generation speed, helpful in packs with lots of structures | Fabric, Forge | Server |
+| Very Many Players | Improve general server performance at high playercount, helpful in servers | Fabric, Forge | Both |
 
 </details>
 
@@ -95,6 +98,7 @@ This doesn't mean you should just install all of them. Only use the ones you nee
 | SerializationIsBad | Fixes the BleedingPipe/ObjectInputStream vulnerability | Forge | Both |
 | Smooth Boot/Smooth Boot Reloaded | Modifies CPU scheduling to improve loading times | Fabric, Forge | Both |
 | Structure Layout Optimizer | Improves structure generation speed, helpful in packs with lots of structures | Fabric, Forge | Server |
+| Very Many Players | Improve general server performance at high playercount, helpful in servers | Fabric | Both |
 
 </details>
 
