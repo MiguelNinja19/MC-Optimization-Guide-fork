@@ -21,7 +21,6 @@ This doesn't mean you should just install all of them. Only use the ones you nee
 | Ixeris | Offloads event polling to a separate thread, potentially improving FPS | NeoForge | Client |
 | Krypton/Krypton FNP | Improves the network stack, may be helpful on multiplayer | Fabric, Forge, NeoForge | Both |
 | MapMipMapMod | Improves mipmapping of maps in item frames | Fabric | Client |
-| Mobtimizations | Modifies Entity behavior to improve performance. May differ from Vanilla slightly | Fabric, NeoForge | Server |
 | Not Enough Recipe Book | Removes the recipe book which can help performance in some cases. Reduces redundancy with item viewers such as EMI | Fabric, NeoForge | Both |
 | Structure Layout Optimizer | Improves structure generation speed, helpful in packs with lots of structures | Fabric, NeoForge | Server |
 | Vanillin | Speeds up rendering of block entities, even better than Enhanced Block Entities. Shaders require the Colorwheel mod | Fabric, NeoForge | Client |
