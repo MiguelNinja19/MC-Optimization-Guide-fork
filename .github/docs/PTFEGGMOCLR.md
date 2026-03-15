@@ -1,7 +1,7 @@
 # Polytetrafluoroethylene's General Guide for Migrating and Optimizing Modpacks to Cleanroom
 
 ### 1. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Hexxit Updated instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Modpack instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 
 ### 2. Update:
