@@ -6,40 +6,50 @@
 
 ### 2. Update:
    - All these [mods](/mods-n-stuff/1.12.2.md) if they are present
-   - JEI Utilities
-   - CraftTweaker
    - Corail Tombstone
+   - CraftTweaker
    - Had Enough Items
+   - JEI Utilities
 
 ### 3. Replace 
+   - Just Enough IDs -> Roughly Enough IDs
    - Just Enough Items -> Had Enough Items
-   - Shadowfacts' Forgelin -> Forgelin-Continuous
+   - LibrarianLib -> LibrarianLib-Continuous
    - Mouse Tweaks -> Mouse Tweaks Unofficial
    - NotEnoughIDs -> Roughly Enough IDs
-   - Just Enough IDs -> Roughly Enough IDs
-   - LibrarianLib -> LibrarianLib-Continuous
    - Quark -> Quark: RotN Edition
+   - Shadowfacts' Forgelin -> Forgelin-Continuous
 
 ### 4. Install:
    - Fugue
    - Scalar Legacy
 
 ### 5. Remove:
-   - Phosphor
-   - Hesperus
-   - MixinBooter
-   - MixinBootstrap
-   - BetterFPS
-   - ConfigAnytime
-   - Old Java Warning
-   - VanillaFix
    - AI Improvements
+   - AttributeFix
+   - BetterFPS
+   - BlahajASM
+   - Born in a Barn
+   - ConfigAnytime
+   - DupeFix Project
+   - Entity Culling (by Meldexun)
    - FastFurnace
    - FastWorkbench
    - FermiumASM
-   - AttributeFix
-   - Entity Culling (by Meldexun)
+   - FermiumASM
    - FoamFix
+   - Hesperus
+   - MixinBooter
+   - MixinBootstrap
+   - MixinCompatibility
+   - NetherPortalFix
+   - NormalASM
+   - Old Java Warning
+   - Performant
+   - Phosphor
+   - RandomPatches
+   - Surge
+   - VanillaFix
 
 ### 6. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly
 
