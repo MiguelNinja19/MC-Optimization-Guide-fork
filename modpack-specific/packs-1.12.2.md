@@ -158,14 +158,14 @@ Known issues: None (yet?)
 
 </details>
 
-## FTB Infinity Reloaded: Skyblock
+## FTB Infinity Reloaded: block
 
 <details>
   <summary>Click to see instructions</summary>
    
-1. Install the latest version of Infinity Reloaded: Skyblock
+1. Install the latest version of Infinity Reloaded: block
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the FTB Infinity Reloaded: Skyblock instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the FTB Infinity Reloaded: block instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Update Alfheim, Had Enough Items, Railcraft, Red Core, UniversalTweaks and VintageFix
 4. Remove BetterFPS, Clumps, FastFurnace, MixinBooter, MixinBootstrap, NotEnoughIDs, Shadowfacts' Forgelin
@@ -319,7 +319,7 @@ Known issues: Updating Alfheim to 1.6 causes crashes when displaying MMCE multib
 
 </details>
 
-## Modern Skyblock 3: Departed
+## Modern block 3: Departed
 
 <details>
   <summary>Click to see instructions</summary>
@@ -490,8 +490,8 @@ Known issues: None (yet?)
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Update Flux Networks and CraftTweaker to the latest version
 4. Replace Mekanism and Mekanism Generators with their "Community Edition" equivalents
-5. Remove FastFurnace, FastWorkbench, FoamFix, Just Enough Items, Mercurius, Shadowfacts' Forgelin, Surge, SwingThroughGrass, and Toast Control 
-6. Install Forgelin-Continuous, Fugue, Had Enough Items and Scalar Legacy
+5. Remove FastFurnace, FastWorkbench, FoamFix, Mercurius, Shadowfacts' Forgelin, Surge, SwingThroughGrass, and Toast Control 
+6. Install Forgelin-Continuous, Fugue and Scalar Legacy
 7. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly
 
 Known issues: None (yet?)
