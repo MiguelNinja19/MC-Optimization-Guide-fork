@@ -2,7 +2,7 @@
 name: Mod request
 about: Request a mod to be added
 title: "[MOD REQUEST]"
-labels: ''
+labels: 'mod request'
 assignees: Polytetrafluoroethylene-PTFE
 
 ---
