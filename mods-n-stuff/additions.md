@@ -144,6 +144,7 @@ This doesn't mean you should just install all of them. Only use the ones you nee
 | SerializationIsBad | Fixes the BleedingPipe/ObjectInputStream vulnerability | Cleanroom | Both |
 | Sledgehammer | Situational fixes for some mods | Cleanroom | Both |
 | Valkyrie | Various performance improvements and additional settings | Cleanroom | Client |
+| [Threading Entity Mod**](https://www.curseforge.com/minecraft/mc-mods/threading-entity-mod) | Multithreaded Mob AI, [More information](https://github.com/Polytetrafluoroethylene-PTFE/MC-Optimization-Guide/issues/31) (this is from a mod request on the original repo) | Forge (Cleanroom?) | Server |
 
 </details>
 
