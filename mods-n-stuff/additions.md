@@ -1,5 +1,5 @@
 ## Other mods which may be useful in some specific situations.
-This doesn't mean you should just install all of them. Only use the ones you need.
+This doesn't mean you should just install all of them. Only use the ones you need. (** = add by me or some issue from the original repo and i added)
 # 1.21.11
 <details>
   <summary>Click to expand</summary>
@@ -13,6 +13,7 @@ This doesn't mean you should just install all of them. Only use the ones you nee
 | Krypton/Krypton FNP | Improves the network stack, may be helpful on mulitplayer | Fabric, Forge, NeoForge | Both |
 | MapMipMapMod | Improves mipmapping of maps in item frames | Fabric | Client |
 | Structure Layout Optimizer | Improves structure generation speed, helpful in packs with lots of structures | Fabric, NeoForge | Server |
+| [Fast Noise](https://modrinth.com/mod/zfastnoise)** | modern optimization mod to improve world generation times (i didnt tested) (Noisium is archived (this is a replacement)) | Fabric, Quilt, Neoforge | Both |
 
 </details>
 
@@ -40,6 +41,7 @@ This doesn't mean you should just install all of them. Only use the ones you nee
 | Structure Layout Optimizer | Improves structure generation speed, helpful in packs with lots of structures | Fabric, NeoForge | Server |
 | Vanillin | Speeds up rendering of block entities, even better than Enhanced Block Entities. Shaders require the Colorwheel mod | Fabric, NeoForge | Client |
 | Very Many Players | Improve general server performance at high playercount, helpful in servers | Fabric | Both |
+| [Fast Noise](https://modrinth.com/mod/zfastnoise)** | modern optimization mod to improve world generation times (i didnt tested) (Noisium is archived (this is a replacement)) | Fabric, Quilt, Neoforge | Both |
 
 </details>
 
@@ -72,6 +74,7 @@ This doesn't mean you should just install all of them. Only use the ones you nee
 | ThreadTweak | Allows for changing thread priority, which can be beneficial on extremely low-end/old PCs | Fabric | Both |
 | Vanillin | Speeds up rendering of block entities, even better than Enhanced Block Entities. Shaders require the Colorwheel mod | Fabric, Forge | Client |
 | Very Many Players | Improve general server performance at high playercount, helpful in servers | Fabric, Forge | Both |
+| [Fast Noise](https://modrinth.com/mod/zfastnoise)** | modern optimization mod to improve world generation times (i didnt tested) (Noisium is archived (this is a replacement)) | Fabric, Quilt | Both |
 
 </details>
 
@@ -93,6 +96,7 @@ This doesn't mean you should just install all of them. Only use the ones you nee
 | Smooth Boot/Smooth Boot Reloaded | Modifies CPU scheduling to improve loading times | Fabric, Forge | Both |
 | Structure Layout Optimizer | Improves structure generation speed, helpful in packs with lots of structures | Fabric, Forge | Server |
 | Very Many Players | Improve general server performance at high playercount, helpful in servers | Fabric, Forge | Both |
+| [Fast Noise](https://modrinth.com/mod/zfastnoise)** | modern optimization mod to improve world generation times (i didnt tested) (Noisium is archived (this is a replacement)) | Fabric, Quilt | Both |
 
 </details>
 
