@@ -70,4 +70,4 @@ Q: Will these work on PojavLauncher?
 A: Maybe, maybe not. Try it and see. Pojav compatibility isn't a priority since most players are on PC.
 
 ## Mirrors
-[Gitlab Mirror](https://gitlab.com/Polytetrafluoroethylene-PTFE/mc-optimization-guide)
+[Gitlab Mirror](https://gitlab.com/MiguelNinja19/MC-Optimization-Guide-fork)
