@@ -1,6 +1,7 @@
 > [!IMPORTANT]
->**MC-Optimization-Guide Continuation**
-> 
+>**MC-Optimization-Guide Continuation Fork**
+>
+> This is a fork to do what the original creator didnt do yet or idk something (i speak portuguese)
 > This repository was created on 13/01/26 after the original creator’s account was deleted.  
 > All credit goes to **Radk6**.  
 > This fork (try) keeps the guide active after the original repo was deleted.
