@@ -14,7 +14,7 @@ This doesn't mean you should just install all of them. Only use the ones you nee
 | MapMipMapMod | Improves mipmapping of maps in item frames | Fabric | Client |
 | Structure Layout Optimizer | Improves structure generation speed, helpful in packs with lots of structures | Fabric, NeoForge | Server |
 | [Fast Noise](https://modrinth.com/mod/zfastnoise)** | modern optimization mod to improve world generation times (i didnt tested) (Noisium is archived (this is a replacement)) | Fabric, Quilt, Neoforge | Both |
-| [Better Render Distance](https://modrinth.com/mod/better-render-distance)** | Improves render distance by making it perfectly spherical, culling diagonal chunk sections and entities for better performance. (maybe in something bad?) | Fabric | Client |
+| [Better Render Distance](https://modrinth.com/mod/better-render-distance)** | Improves render distance by making it perfectly spherical, culling diagonal chunk sections and entities for better performance. (maybe bad?) | Fabric | Client |
 
 </details>
 
@@ -42,7 +42,7 @@ This doesn't mean you should just install all of them. Only use the ones you nee
 | Structure Layout Optimizer | Improves structure generation speed, helpful in packs with lots of structures | Fabric, NeoForge | Server |
 | Vanillin | Speeds up rendering of block entities, even better than Enhanced Block Entities. Shaders require the Colorwheel mod | Fabric, NeoForge | Client |
 | Very Many Players | Improve general server performance at high playercount, helpful in servers | Fabric | Both |
-| [Fast Noise](https://modrinth.com/mod/zfastnoise)** | modern optimization mod to improve world generation times (i didnt tested) (Noisium is archived (this is a replacement)) | Fabric, Quilt, Neoforge | Both |
+| [Fast Noise](https://modrinth.com/mod/zfastnoise)** | modern optimization mod to improve world generation times (i didnt tested) (Noisium is archived (this is a replacement)) | Fabric, Quilt | Both |
 
 </details>
 
