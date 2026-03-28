@@ -5,8 +5,7 @@
 > All credit goes to **Radk6**.  
 > This fork (try) keeps the guide active after the original repo was deleted.
 > This repository uses the latest version of the original repository (fortunately, I synced my fork the day before its deletion).
-> If the original creator resumes activity, this repository will be discontinued in their favor.
-> I will try to maintain it if the original creator does not return.
+> I will try to maintain it.
 
 
 # MC-Optimization-Guide
@@ -47,7 +46,7 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 ## FAQ
 Q: What happened to Rad? Why was the original repository deleted?
 
-A: He deleted his [GitHub](https://github.com/Radk6/), Reddit, and possibly Discord accounts. The reason is unknown.
+A: He went on a break and didn't want to maintain the guide anymore
 
 Q: Why isn't `mod x` on any of the lists?
 
@@ -59,11 +58,11 @@ A: I only maintain lists for Minecraft versions that still see active mod develo
 
 Q: Isn’t it better to just use an optimization modpack?
 
-Q:The guide aims to provide the best balance between number of mods and performance. Optimization modpacks usually include additional mods that aren’t strictly performance-related. If you want the best performance with the fewest mods, use the guide. If you prefer something more plug-and-play or with extra QoL mods, then use an optimization modpack.
+A: The guide aims to provide the best balance between number of mods and performance. Optimization modpacks usually include additional mods that aren’t strictly performance-related. If you want the best performance with the fewest mods, use the guide. If you prefer something more plug-and-play or with extra QoL mods, then use an optimization modpack.
 
-Q: Will these work on PojavLauncher?
+Q: Will these work on Mobile?
 
-A: Maybe, maybe not. Try it and see. Pojav compatibility isn't a priority since most players are on PC.
+A: Maybe, maybe not. Try it and see. Mobile compatibility isn't a priority since most players are on PC.
 
 ## Mirrors
 [Gitlab Mirror](https://gitlab.com/Polytetrafluoroethylene-PTFE/mc-optimization-guide)
