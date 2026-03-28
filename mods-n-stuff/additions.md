@@ -1,6 +1,6 @@
 ## Other mods which may be useful in some specific situations.
-This doesn't mean you should just install all of them. Only use the ones you need. (** = add by me or some issue from the original repo and i added)
-# 1.21.11
+This doesn't mean you should just install all of them. Only use the ones you need. (* = add by me or some issue from the original repo and i added)
+# 1.21.11*
 <details>
   <summary>Click to expand</summary>
   
