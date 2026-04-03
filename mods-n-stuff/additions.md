@@ -13,8 +13,8 @@ This doesn't mean you should just install all of them. Only use the ones you nee
 | Krypton/Krypton FNP | Improves the network stack, may be helpful on mulitplayer | Fabric, Forge, NeoForge | Both |
 | MapMipMapMod | Improves mipmapping of maps in item frames | Fabric | Client |
 | Structure Layout Optimizer | Improves structure generation speed, helpful in packs with lots of structures | Fabric, NeoForge | Server |
-| [Fast Noise](https://modrinth.com/mod/zfastnoise)** | modern optimization mod to improve world generation times (i didnt tested) (Noisium is archived (this is a replacement)) | Fabric, Quilt, Neoforge | Both |
-| [Better Render Distance](https://modrinth.com/mod/better-render-distance)** | Improves render distance by making it perfectly spherical, culling diagonal chunk sections and entities for better performance. (maybe bad?) | Fabric | Client |
+| [Fast Noise](https://modrinth.com/mod/zfastnoise)** | modern optimization mod to improve world generation times (i didnt tested) (Noisium is archived (this is a replacement)) [(More info)](https://github.com/Polytetrafluoroethylene-PTFE/MC-Optimization-Guide/issues/21)  | Fabric, Quilt, Neoforge | Both |
+| [Better Render Distance](https://modrinth.com/mod/better-render-distance)** | Improves render distance by making it perfectly spherical, culling diagonal chunk sections and entities for better performance. [(More info)](https://github.com/Polytetrafluoroethylene-PTFE/MC-Optimization-Guide/issues/32) (maybe bad?) | Fabric | Client |
 
 </details>
 
