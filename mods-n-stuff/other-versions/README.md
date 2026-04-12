@@ -6,4 +6,4 @@
 | Minecraft Version |
 |:---:|
 | [26.1](mods-n-stuff/other-versions/26.1.md) |
-| [1.21.11]mods-n-stuff/other-versions/1.21.11.md() |
+| [1.21.11](mods-n-stuff/other-versions/1.21.11.md) |
