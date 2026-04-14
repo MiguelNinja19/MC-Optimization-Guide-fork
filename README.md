@@ -45,20 +45,20 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 
 ## [Java stuff](java-n-stuff/java-things.md)
 
-## [Modpack-specific optimizations](modpack-specific/modpack-instructions.md)
+## [Modpack-specific optimizations](modpack-specific/README.md)
 
 ## FAQ
 Q: What happened to Rad? Why was the original repository deleted?
 
-A: He went on a break and didn't want to maintain the guide anymore
+A: He went on a break and didn't want to maintain the guide anymore.
 
 Q: Why isn't `mod x` on any of the lists?
 
-A: A list of mods that aren't recommended (and why) can be found [here](mods-n-stuff/not-recommended.md). Similarly, a list of situational performance mods which may help in some specific scenarios can be found [here](/mods-n-stuff/additions.md)
+A: A list of mods that aren't recommended (and why) can be found [here](mods-n-stuff/not-recommended.md). Similarly, a list of situational performance mods which may help in some specific scenarios can be found [here](/mods-n-stuff/additions.md).
 
 Q: Why isn't `version x.y.z` supported?
 
-A: I only maintain lists for Minecraft versions that still see active mod development.
+A: I only maintain lists for Minecraft versions that still see active mod development. However, [there are guides](mods-n-stuff/other-versions/README.md) for inactive versions, but they are not maintained.
 
 Q: Isn’t it better to just use an optimization modpack?
 
