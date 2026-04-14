@@ -24,7 +24,7 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 
 | Minecraft Version |
 |:---:|
-| [1.21.11](mods-n-stuff/1.21.11.md)** |
+| [1.21.11](/mods-n-stuff/other-versions/1.21.11.md)** |
 | [1.21.1](mods-n-stuff/1.21.1.md) |
 | [1.20.1](mods-n-stuff/1.20.1.md) |
 | [1.19.2](mods-n-stuff/1.19.2.md) |
@@ -35,7 +35,7 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 | [1.7.10](mods-n-stuff/1.7.10.md) |
 
 ###### *The marked guides are currently in WIP.
-###### **Dois asteriscos significa que é feito por outra pessoa ou que nao foi o criador original que fez
+###### **Adding things
 
 | Indicator | Explanation |
 |:---:|:---:|
