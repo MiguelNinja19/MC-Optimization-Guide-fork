@@ -3,7 +3,7 @@ name: Modpack request
 about: Request a modpack to be added
 title: "[MODPACK REQUEST]"
 labels: 'modpack request'
-assignees: Polytetrafluoroethylene-PTFE
+assignees: MiguelNinja19
 
 ---
 
