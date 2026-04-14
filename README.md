@@ -69,4 +69,4 @@ Q: Will these work on Mobile?
 A: Maybe, maybe not. Try it and see. Mobile compatibility isn't a priority since most players are on PC.
 
 ## Mirrors
-[Gitlab Mirror](https://gitlab.com/MiguelNinja19/MC-Optimization-Guide-fork) (it will be not updated, only maybe when i have time)(trying to auto mirror like the creator did)
+[Gitlab Mirror](https://gitlab.com/MiguelNinja19/MC-Optimization-Guide-fork) (trying to auto mirror like the creator did)
