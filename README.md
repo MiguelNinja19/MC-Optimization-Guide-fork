@@ -35,7 +35,7 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 | [1.7.10](mods-n-stuff/1.7.10.md) |
 
 ###### *The marked guides are currently in WIP.
-###### **Adding things
+###### **Add thing
 
 | Indicator | Explanation |
 |:---:|:---:|
