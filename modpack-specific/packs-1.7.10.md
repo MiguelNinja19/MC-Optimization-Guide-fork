@@ -82,3 +82,8 @@ Note: You may need to replace a few other mods (Carpenters' Blocks? Tinkers' Con
 3. Replace NotEnoughItems, Chisel, Wireless Redstone-CBE, Ender IO, Ender Core, ForgeMultipart and CodeChickenCore with their Unofficial (GTNH) versions. Some of them are on CurseForge, but some can only be downloaded from GitHub.
 4. Make sure you have all of [these mods](/mods-n-stuff/1.7.10.md) installed
 5. Set the game to run with [the recommended Java version](/java-n-stuff/java-things.md)
+
+Known issues: None (yet?)
+
+Note: You may need to replace a few other mods (Carpenters' Blocks? Tinkers' Construct?) with their GTNH versions.
+</details>
