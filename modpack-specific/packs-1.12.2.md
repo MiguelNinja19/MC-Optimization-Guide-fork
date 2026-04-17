@@ -194,6 +194,26 @@ Known issues: None (yet?)
 
 </details>
 
+## [FTB Interactions Remastered](https://www.curseforge.com/minecraft/modpacks/ftb-interactions-remastered/)** (WIP)
+
+<details>
+  <summary>Click to see instructions</summary>
+   
+1. Install the latest version of FTB Interactions Remastered
+2. Move the pack to Cleanroom Loader
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the FTB Interactions Remastered instance to it.
+   - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
+3. Update CraftTweaker and Sledgehammer
+4. Remove BetterFPS, Shadowfacts' Forgelin
+5. Install Forgelin-Continuous, Fugue and Scalar Legacy
+6. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly
+
+Known issues: None (yet?)
+
+Notes: I didnt tested (yet), [More information/Issue from the original repo](https://github.com/Polytetrafluoroethylene-PTFE/MC-Optimization-Guide/issues/36)
+
+</details>
+
 ## Hexxit Updated
 
 <details>
