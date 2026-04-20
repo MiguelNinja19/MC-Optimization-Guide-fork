@@ -10,15 +10,3 @@
 
 Known issues: None (yet?)
 </details>
-
-## Reclamation - Reclaim the World!**  (didnt tested yet and i dont even know something so dont use)
-<details>
-  <summary>Click to see instructions</summary>
-
-1. Download the latest version of Reclamation - Reclaim the World!
-2. Update Forge to the latest version.
-3. Make sure you have all of [these mods](/mods-n-stuff/1.20.1.md) installed and that they're configured accordingly.
-4. Make sure you're using [the recommended Java version](/java-n-stuff/java-things.md)
-
-Known issues: None
-</details>
