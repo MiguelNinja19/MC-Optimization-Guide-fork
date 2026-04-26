@@ -59,6 +59,21 @@ Known issues: None (yet?)
 
 </details>
 
+## Cuboid Outpost
+
+<details>
+  <summary>Click to see instructions</summary>
+  
+1. Install the latest version of Cuboid Outpost
+2. Update Forge to the latest version
+3. Update Just Enough Items to their latest versions
+4. Make sure you have all of [these mods](/mods-n-stuff/1.16.5.md) installed and configured accordingly
+5. Set the Java version to 21 and add [these jvm arguments](https://github.com/embeddedt/ModernFix/wiki/1.16---required-arguments-for-Java-17)
+
+Known issues: None (yet?)
+
+</details>
+
 ## Enigmatica 6
 
 <details>
