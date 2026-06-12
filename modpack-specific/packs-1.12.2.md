@@ -451,7 +451,7 @@ Known issues: None (yet?)
 
 This is a client-side optimization guide. For server-side setups, it is advised to use the default provided files without changes for the best compatibility. If there is an issue, please report it to the issues tab.
 
-Before doing anything, you need Cleanroom Loader installed in order to use the setups below. If you need to know how to download Cleanroom Loader, click on “Cleanroom Loader” or scroll down.
+Before doing anything, you need ***Cleanroom Loader*** installed in order to use the setups below. If you need to know how to download Cleanroom Loader,please scroll down.
 
 This guide provides 2 configurations; pick the one that suits your needs.
 
@@ -462,10 +462,10 @@ This guide provides 2 configurations; pick the one that suits your needs.
 Since OptiFine has been replaced with Celeritas, you cannot install Nothirium or OptiFine alongside it.
 
 * **Remove:** OptiFine, Sound Filters, FoamFix, FermiumASM
-* **Required Core:** Celeritas, FermiumBooterDepoliticization, Red Core
-* **Optimization Mods:** Celeritas Leaf Culling, Celeritas Extra, FastEntityRender, Gnetum, Chibi, VintageFix, Alfheim Lighting Engine / patched Phosphor 
+* **Required Core:** [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build/releases), FermiumBooterDepoliticization, Red Core
+* **Optimization Mods:** Celeritas Leaf Culling, Celeritas Extra, [FastEntityRender](https://github.com/Meldexun/FastEntityRender/releases), Gnetum, Chibi, VintageFix, Alfheim Lighting Engine / [patched Phosphor](#patched-phosphor)
 
-**Lighting Engine Note:** Use Alfheim Lighting Engine for singleplayer. If you play multiplayer, remove Alfheim and install a patched version of Phosphor instead, as servers will check for Phosphor upon connection.
+**Lighting Engine Note:** Use Alfheim Lighting Engine for singleplayer. If you play multiplayer, remove Alfheim and install a [patched version of Phosphor](#patched-phosphor) instead, as servers will check for Phosphor upon connection.
 </details>
 
 ### 2. Shader-Optimized Setup
@@ -474,7 +474,7 @@ Since OptiFine has been replaced with Celeritas, you cannot install Nothirium or
 
 * **Remove:** Sound Filters, FoamFix
 * **Required Core:** OptiFine, Red Core, FermiumBooterDepoliticization
-* **Optimization Mods:** Nothirium, Naughthirium, FastEntityRender, Gnetum, VintageFix, OptiNotFine, Alfheim Lighting Engine / patched Phosphor 
+* **Optimization Mods:** Nothirium, Naughthirium, [FastEntityRender](https://github.com/Meldexun/FastEntityRender/releases), Gnetum, VintageFix, OptiNotFine, Alfheim Lighting Engine / [patched Phosphor](#patched-phosphor)
 </details>
 
 ### Installation Instructions (Cleanroom Loader)
@@ -484,13 +484,13 @@ Since OptiFine has been replaced with Celeritas, you cannot install Nothirium or
 #### I. Installing Cleanroom
 Install the latest version of RLCraft Dregora using Prism Launcher or a MultiMC-based launcher.
 
-Move the pack to Cleanroom Loader:
-* Download the latest Cleanroom Loader MMC instance.
+Set up the Cleanroom Loader:
+* Download the latest [Cleanroom Loader MMC](https://download.cleanroommc.com) instance.
 * Extract the contents of the `Cleanroom_MMC` archive into your RLCraft Dregora instance folder, **except** `instance.cfg`.
 * Configure the instance executable to use Java 21 or higher. Java 25 is recommended.
 
 #### II. Mod Replacements:
-**Install patched Phosphor (required):**
+<a id="patched-phosphor"></a>**Install patched Phosphor (required):**
 * Compile a local build of `phosphor-forge112` using the `dynamiclights` branch (https://github.com/embeddedt/phosphor-forge112).
 * Edit `build.gradle` and replace `deobfCompile ("zone.rong:mixinbooter:4.2")` with version `10.7` (or the version corresponding to your Cleanroom instance) to resolve the dependency tree.
 
