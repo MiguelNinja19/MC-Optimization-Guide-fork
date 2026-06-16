@@ -502,9 +502,6 @@ able to use shader, but gain less fps compared to the first option.
 * **Remove:** Sound Filters, FoamFix
 * **Required Core:** OptiFine, Red Core, FermiumBooterDepoliticization
 * **Optimization Mods:** Nothirium, Naughthirium, [FastEntityRender](https://github.com/Meldexun/FastEntityRender/releases), Gnetum, VintageFix, OptiNotFine, Alfheim Lighting Engine / [patched Phosphor](#patched-phosphor)
-
-6. Install the required core mods: [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build/releases), FermiumBooterDepoliticization, and Red Core.
-7. Install the optimization mods: Celeritas Leaf Culling, Celeritas Extra, [FastEntityRender](https://github.com/Meldexun/FastEntityRender/releases), Gnetum, VintageFix, and Alfheim Lighting Engine / [patched Phosphor](#patched-phosphor).
 * **Lighting Engine Note:** Use Alfheim Lighting Engine for singleplayer. For multiplayer, remove Alfheim and use either a [patched version of Phosphor](#patched-phosphor) or the version included with the modpack (it works fine, no need to patch) , as servers check for Phosphor upon connection.
 ---
 
