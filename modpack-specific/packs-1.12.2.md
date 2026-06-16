@@ -487,7 +487,22 @@ This is a client-side optimization guide. For server-side setups, it is advised 
        * Edit `build.gradle` and replace the `4.2` from `deobfCompile ("zone.rong:mixinbooter:4.2")` with version `10.7` (or the version corresponding to your Cleanroom instance) to resolve the dependency tree.
      - **Fugue:** Requires patching to function alongside FermiumASM instead of CensoredASM.
      - **RLTweaker:** Requires patching to function natively with Cleanroom.
-5. Remove OptiFine, Sound Filters, and FoamFix.
+5. Now you have 2 configurations to choose, pick the one that suits your needs.
+
+### 1. Maximum Performance Setup
+Since OptiFine has been replaced with Celeritas, you cannot install Nothirium or OptiFine alongside it, which means can't use shader.
+
+* **Remove:** OptiFine, Sound Filters, FoamFix
+* **Required Core:** [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build/releases), FermiumBooterDepoliticization, Red Core
+* **Optimization Mods:** Celeritas Leaf Culling, Celeritas Extra, [FastEntityRender](https://github.com/Meldexun/FastEntityRender/releases), Gnetum, VintageFix, Alfheim Lighting Engine / [patched Phosphor](#patched-phosphor)
+
+### 2. Shader-Optimized Setup 
+able to use shader, but gain less fps compared to the first option.
+
+* **Remove:** Sound Filters, FoamFix
+* **Required Core:** OptiFine, Red Core, FermiumBooterDepoliticization
+* **Optimization Mods:** Nothirium, Naughthirium, [FastEntityRender](https://github.com/Meldexun/FastEntityRender/releases), Gnetum, VintageFix, OptiNotFine, Alfheim Lighting Engine / [patched Phosphor](#patched-phosphor)
+
 6. Install the required core mods: [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build/releases), FermiumBooterDepoliticization, and Red Core.
 7. Install the optimization mods: Celeritas Leaf Culling, Celeritas Extra, [FastEntityRender](https://github.com/Meldexun/FastEntityRender/releases), Gnetum, VintageFix, and Alfheim Lighting Engine / [patched Phosphor](#patched-phosphor).
 * **Lighting Engine Note:** Use Alfheim Lighting Engine for singleplayer. For multiplayer, remove Alfheim and use either a [patched version of Phosphor](#patched-phosphor) or the version included with the modpack (it works fine, no need to patch) , as servers check for Phosphor upon connection.
