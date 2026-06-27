@@ -155,6 +155,7 @@ Known issues: Doesn't work on latest Cleanroom (0.3.26), use 0.3.24 for now.
 6. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly
 
 Known issues: None (yet?)
+Note: In the latest version of FTB Academy (1.4.1) Dynamic Trees and Dynamic Trees - Traverse will not be in the mods list due to them being deleted as of version 1.2. Also do not forget to remove FTB Auxilium otherwise your game will crash om startup.
 
 </details>
 
