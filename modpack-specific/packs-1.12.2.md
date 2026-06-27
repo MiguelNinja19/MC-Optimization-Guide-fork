@@ -536,6 +536,7 @@ Known issues: None (yet?)
 
 </details>
 
+<!--
 ## Supersymmetry
 
 <details>
@@ -552,6 +553,7 @@ Known issues: None (yet?)
 Known issues: None (yet?)
 
 </details>
+-->
 
 ## Ultimate Alchemy
 
