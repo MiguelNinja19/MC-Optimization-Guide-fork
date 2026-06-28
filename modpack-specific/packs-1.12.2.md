@@ -156,6 +156,8 @@ Known issues: Doesn't work on latest Cleanroom (0.3.26), use 0.3.24 for now.
 
 Known issues: None (yet?)
 
+**Note:** In the latest version of FTB Academy (1.4.1) Dynamic Trees and Dynamic Trees - Traverse are not included in the mods list due to them being deleted as of version 1.2. Also do not forget to remove FTB Auxilium otherwise your game will crash om startup.
+
 </details>
 
 ## FTB Infinity Reloaded: Skyblock
@@ -591,6 +593,7 @@ Known issues: None (yet?)
 
 </details>
 
+<!--
 ## Supersymmetry
 
 <details>
@@ -607,6 +610,7 @@ Known issues: None (yet?)
 Known issues: None (yet?)
 
 </details>
+-->
 
 ## Ultimate Alchemy
 
